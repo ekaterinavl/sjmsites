@@ -22,7 +22,7 @@ body {
   color:  #323131;
   position: relative;
   max-width: 650px;
-  min-height: 90%;
+  min-height: 80%;
   margin: 10px auto;
   font-family: 'URW Gothic L';
   box-sizing: border-box;
@@ -33,8 +33,6 @@ body {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
-  margin: 20px;
-  padding: 36px;
 }
 
 .logo {

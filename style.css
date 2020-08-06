@@ -34,6 +34,7 @@ body {
   align-items: baseline;
   justify-content: space-between;
   margin: 20px;
+  padding: 36px;
 }
 
 .logo {

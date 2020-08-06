@@ -34,7 +34,7 @@ body {
   font-family: 'URW Gothic L';
   box-sizing: border-box;
   padding: 36px;
-  display: inline;
+  display: inline-block;
 }
 
 

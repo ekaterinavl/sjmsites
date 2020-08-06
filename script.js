@@ -1,14 +1,14 @@
 let phrases = [
   { text: 'инструктора по йоге', image: 'https://raw.githubusercontent.com/ekaterinavl/sjmsites/master/1.gif' },
-  { text: 'посмотреть скидки на авиабилеты', image: 'https://code.s3.yandex.net/web-code/procrastinate/2.png' },
-  { text: 'разобраться, о чём поют рэперы', image: 'https://code.s3.yandex.net/web-code/procrastinate/3.png' },
-  { text: 'Юрий Дудь', image: 'https://code.s3.yandex.net/web-code/procrastinate/4.png' },
-  { text: 'расставить книги на полке по цвету', image: 'https://code.s3.yandex.net/web-code/procrastinate/5.png' },
-  { text: 'читать про зарплаты в Сан-Франциско', image: 'https://code.s3.yandex.net/web-code/procrastinate/6.png' },
-  { text: 'прочитать новости и ужаснуться в комментариях', image: 'https://code.s3.yandex.net/web-code/procrastinate/7.png' },
-  { text: 'попасть в поток грустных песен и вспомнить все ошибки молодости', image: 'https://code.s3.yandex.net/web-code/procrastinate/8.png' },
-  { text: 'посмотреть трейлер сериала и заодно первый сезон', image: 'https://code.s3.yandex.net/web-code/procrastinate/9.png' },
-  { text: 'проверить непрочитанное в Telegram-каналах', image: 'https://code.s3.yandex.net/web-code/procrastinate/10.png' }
+  { text: 'музыкального магазина', image: 'https://raw.githubusercontent.com/ekaterinavl/sjmsites/master/2.gif' },
+  { text: 'революционной пиццерии', image: 'https://raw.githubusercontent.com/ekaterinavl/sjmsites/master/3.gif' },
+  { text: 'репетитора', image: 'https://raw.githubusercontent.com/ekaterinavl/sjmsites/master/4.gif' },
+  { text: 'книжной лавки', image: 'https://raw.githubusercontent.com/ekaterinavl/sjmsites/master/5.gif' },
+  { text: 'салона красоты', image: 'https://raw.githubusercontent.com/ekaterinavl/sjmsites/master/6.gif' },
+  { text: 'новой кофейни', image: 'https://raw.githubusercontent.com/ekaterinavl/sjmsites/master/7.gif' },
+  { text: 'ресторанчика у дома', image: 'https://raw.githubusercontent.com/ekaterinavl/sjmsites/master/8.gif' },
+  { text: 'груминга', image: 'https://raw.githubusercontent.com/ekaterinavl/sjmsites/master/9.gif' },
+  { text: 'брутального барбершопа', image: 'https://raw.githubusercontent.com/ekaterinavl/sjmsites/master/10.gif' }
 ];
 
 function getRandomElement(arr) {

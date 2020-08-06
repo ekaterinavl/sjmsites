@@ -17,6 +17,12 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 
+.header {
+  display: inline;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
 body {
   background-color: white;
   color:  #323131;
@@ -27,13 +33,9 @@ body {
   font-family: 'URW Gothic L';
   box-sizing: border-box;
   padding: 36px;
+  display: inline;
 }
 
-.header {
-  display: inline;
-  align-items: baseline;
-  justify-content: space-between;
-}
 
 .logo {
   font-weight: bold;

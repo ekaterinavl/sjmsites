@@ -1,5 +1,5 @@
 let phrases = [
-  { text: 'инструктора по йоге', image: 'C:\Users\EVZHarova\Desktop\Катя программист\SJM\1.gif' },
+  { text: 'инструктора по йоге', image: 'https://raw.githubusercontent.com/ekaterinavl/sjmsites/master/1.gif' },
   { text: 'посмотреть скидки на авиабилеты', image: 'https://code.s3.yandex.net/web-code/procrastinate/2.png' },
   { text: 'разобраться, о чём поют рэперы', image: 'https://code.s3.yandex.net/web-code/procrastinate/3.png' },
   { text: 'Юрий Дудь', image: 'https://code.s3.yandex.net/web-code/procrastinate/4.png' },

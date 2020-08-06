@@ -21,6 +21,7 @@ html {
   display: inline-block;
   align-items: baseline;
   justify-content: space-between;
+  margin: 50px 0;
 }
 
 body {
